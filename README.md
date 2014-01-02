@@ -6,8 +6,8 @@ Node-webkit binary for armhf architecture compiled on Exynos 4412 (ARM Cortex-A9
 Only nw and nw.pak files are required to run node-webkit binary. 
 
 
-armhf.com Image Minimal APT install
------------------------------------
+armhf.com Minimal Image install
+-------------------------------
 
 ```
 sudo apt-get update
