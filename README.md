@@ -16,6 +16,7 @@ sudo apt-get install xorg libgtk2.0-0 libasound2 libnss3 libgconf-2-4
 
 ```
 allow node-webkit to load nss in standard location
+(without doing this  node-inspector may crash nw)
 ```
 sudo ln -s /usr/lib/arm-linux-gnueabihf/nss /usr/lib/nss
 
